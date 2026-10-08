@@ -28,7 +28,7 @@ featured-image-alt-text: "An illustration of writing brushes with Japanese label
 
 # true/false options to turn on navigation features on navbar and homepage
 
-show-contents-nav: true 
+show-contents-nav: false 
 # true == navbar shows a "Contents" button that opens the essay chapter list
 show-homepage-toc: true 
 # true == homepage displays a table of contents listing all essays

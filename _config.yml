@@ -51,14 +51,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # These fields control what appears on your homepage cover/title page
 #
 # title: Main title displayed prominently on the cover page (required)
-title: In Nez Perce Country&nbsp;Accounts of the Bitterroots and the Clearwater after Lewis and Clark
+title: In Nez Perce Country &nbsp; Accounts of the Bitterroots and the Clearwater after Lewis and Clark
 #
 # author: Appears as "by [Author Name]" beneath the title on cover page (optional)
 # - If provided, this displays instead of the tagline
 # - Leave blank to show tagline instead
 # - You can use HTML to add line breaks or additional attribution:
 #   author: "Author Name<br>Edited by Editor Name<br>Translated by Translator Name
-author:
+author: Compiled and edited by Lynn and Dennis Baird
 #
 # tagline: A subtitle/tagline that appears beneath the title (optional)
 # - Only displays if "author" field is empty

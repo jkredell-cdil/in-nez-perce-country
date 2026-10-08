@@ -1,0 +1,65 @@
+---
+title: "Visitors Along the Trail"
+order: 200
+part: Chapter 20
+---
+
+In addition to the Nez Perce people, the Lolo Trail has had many other visitors. Some of their accounts appear in this book. Most left no written account at all. A handful of visitors went on to achieve great fame and influence, and others had ties to the trail extending far into the past. Two such accounts follow.
+
+The first comes from pioneer conservationist Bob Marshall. Marshall arrived in Idaho in 1925 as a young scientist assigned to the Priest River Experiment Station. He worked for the Forest Service until 1929, but managed to spend a good part of his time away from Priest River and deep in what are now the Clearwater and Nez Perce National Forests. He fought fire on the North Fork of the Clearwater, examined white pine in Latah County, and hiked the area around Elk Summit, Nez Perce Pass, and much of the upper Selway. Two of his trips took him along the Lolo Trail near the Powell Ranger Station.
+
+Marshall later was employed by the Bureau of Indian Affairs, and then returned to Forest Service employment as head of recreation. He was the key figure in the establishment of the Selway-Bitterroot Primitive Area and allied himself with Howard Flint and Elers Koch in their efforts to stop excessive truck trail construction. Marshall also played a major role in the enlargement of the Idaho Primitive Area and helped stop plans to build a road from Riggins to Salmon, along the main Salmon River.
+
+The second account, a brief one, stems from a visit in 1938 by a party of twenty people who claimed to be descendents of Lewis, Clark, and even Sacajawea. Their guide west from Lolo Pass was Walter Sewell, of Orofino, who had helped relocate the Lolo Trail after 1905. This group's bus trip started in St. Louis, and was headed for Astoria. It is not known how they happened to hire Sewell, but in him they had a uniquely well qualified guide.
+
+{% include essay/new-section.html %}
+
+### Account 20.1
+
+*Bob Marshall on the Lolo Trail, 1926 and 1927.*
+
+**Source:** Robert Marshall Papers, Bancroft Library, University of California, Berkeley. Published here with the permission of the Bancroft Library. Excerpts.
+
+> Missoula, Montana February 25, 1926 Washington's Birthday coming on a Monday this year, I determined to make good use of the two day vacation ... after due deliberation, I determined on Lolo Pass as my destination. This is the lowest gap in the Bitterroot range, being only a trifle over 5,000 ft. in elevation .. .The 17 miles up to Lolo Hot Springs were pleasant, but neither especially beautiful nor interesting ... the fact that I was tramping over the exact ground of the first white man to cross the Continent, and tramped over a dozen decades before, should have added a great deal of interest, but as a matter of fact, the road, and the hills, most of which had been burned long after the days of Lewis and Clark, made it thoroughly impossible for me to image myself back in the thrilling days of 1805.
+
+> There was an old, red-ramshackle hotel at the Springs, probably erected in 1887, when the place was opened as a resort. In addition, there are about 50 cabins and shacks to house the summer guests. Among these may be found approximately 49 different architectural designs and about 15 different colors. I found Ed Mackaye, the ranger with whom I was going to spend the night. ...
+
+> After supper, we talked until 10 o'clock. Then I took a short stroll through the snowy woods, while the moonlight streamed through. It was certainly a great contrast to the city forty miles away.
+
+> The next morning I borrowed a pair of snowshoes and started for the divide seven and a half miles away. There were not steep places, yet the rise was continual. Up here, the same trees were still standing that had shaded Lewis and Clark on their journey. With the deep snow and practically no signs of civilization, it was now not hard to drift back in imagination 120 years. Indeed, I don't believe the adventure of this intrepid expedition ever seemed quite so vivid to me as it did when I stood in the center of Lolo Pass, with a young blizzard howling and snowburied trail leading down into the greatest forest wilderness still left in this country. True, a hundred miles across the Selway, to the Snake River Settlements would have seemed very narrow to Lewis and Clark, but today, it is the last great core of the old wilderness they traversed. It forms the very heart of the 28,000 square miles of undissected wilderness by road, of which I have previously written. In a few years, the road from Lolo Hot Springs will push through this country and cut the last great wilderness in two. I am certainly glad I had the chance of standing at its edge in mid-winter, before this wilderness is ruined forever by a highway.
+
+> Three miles to Erickson's, were covered in moonlight. The road down here was free of snow. The stroll was really delightful. Ericksons, who had never seen or heard of me before, received me like a long lost brother. He talked a couple of hours ... l slept down in a cabin with old Gus Erickson. He believed in sleeping warm, and after carefully considering all possible means of ventilation, with a roaring fire in the stove. It was so hot that, though mid-winter, I threw all the covers off. I had just gotten myself adjusted to the extremely rugged topography of my bed, when the bedbugs burst out in full strength ... dosing was out of the question until after midnight and the fire died down and the vermin became more sluggish. I had just about fallen asleep about two a.m., when a cat crawled over me. I hurled him halfway across the room, but he was game and came back immediately. It was about three when I taught him proper manners. After a few minutes of further adjustment, with still noticeable attacks of my bed fellows, I entered the land of Nod once more, only to be almost instantly awakened by the loud sneeze of Gus's pet dog close by my ear. I drove him off, too, and wrapped myself around the miniature Mt. Marcy, which is located in the middle of my bed, fell asleep until about an hour later, the alarm went off.
+
+> I ate an excellent breakfast and almost had to beg to make the Ericksons accept anything for board and lodging.
+
+> Missoula, Montana January 4, 1927 I shall now take you on a trip into the Upper Locksa River, three day's snowshoeing from the edge of civilization. I left Missoula bright and early Christmas morning, with a heavy snow falling. I took the bus as far as Lolo and then commenced my long 29 miles walk along a road almost untraveled in winter, to Lolo Hot Springs. On Sunday, I bade goodbye to civilization ... at the Lolo Ranger Station, and headed for the Bitterroot Divide, seven miles away. I was accompanied by Carl and Andrew Erickson ... leading trappers of the Locksa Country. At the divide, which is also the state line, we separated. They started out on their nine-day trappers' line, while I dropped down the Idaho side of the Bitterroots, six miles to one of Erickson's cabins, near the junction of Crooked Fork of the Locksa and Brushy Creek. Here, 13 miles from my nearest neighbor, I made myself at home and spent a comfortable evening and night. ... Monday morning I was on the trail at nine o'clock and reached my destination, a deserted Pease cabin, by 2:40 that afternoon. Here, I was 26 miles from civilization, and only 1O miles from my trapper neighbors to the West.
+
+> Tuesday was the only bright day I had in the Locksa country. The scenery down the 10 miles of river to Winnis cabin was fine, especially for six to eight miles where the river rushed through a deep gorge. The snow here was not nearly as deep as at the divide where there were 48 inches on the level.
+
+> The Winnis cabin stands in a burned plot. Mr. Winnis was out on his trap line, but Mrs. Winnis, who had seen none but her husband in three weeks, greeted me like a long lost uncle from Siberia. In return, I gave her their mail, the pictorial section of the latest New York Times and two pounds of candy. Then after our conversation, I set out for a little jaunt down stream. I went as far as Colgate Licks, where 40 years before the cook of a party [the Carlin party] of Eastern sportsmen had died of starvation when early snow trapped the hunters.
+
+> Returned to the Winnises and found Mr. Winnis back. Then talked almost uninterruptedly until 11 :40. They certainly seemed glad of this break in their three months' isolation and treated me with the hospitality characteristic of regions beyond the frontier.
+
+> It was very pleasant to reflect, sitting by the warm fire, that I was 36 miles and three days by the closest way from the most advanced outpost of civilization; that it was 65 miles to the nearest main highway; that it was 76 miles to the closest railroad, city, electric light, pavement or doctor. Also, it was nice to realize that, to the West, the nearest settlement was 54 miles, airline, across a trailless wilderness, while both north and south, it was 100 miles to civilization.
+
+> Next morning I bade a sorrowful farewell to my kind host and hostess, never seen before, and probably never to be seen again, but for one night, my most intimate friends. Once they were out of sight, I had an insatiable desire to get back to civilization. Seven years before, I had studied in Human Traits, "Man is a gregarious animal." Certainly, I realized it now, for I dreaded the thought of three long days alone. So I determined to push through all 23 miles to Erickson's cabin, where I had spent the first night. This was foolish; and violated the cardinal principle which I find that good woodsmen adopt in regard to wilderness snowshoe travel; never go farther in a day than you can make with ease well before dark ... I made Erickson's all right, but without much to spare. The snow was soft and I had much trouble with the snowshoe harness breaking in four places. It taught me a good lesson ....
+
+> The evening at Erickson's was largely spent writing letters. I retired late, but was away next morning at daylight. ..My makeshift harness worked fine and I crossed the divide and Lolo Pass (elevation 5,233 feet) at 10:00 o'clock. On the way up, I saw my first game of the trip, a large cow elk. It was shortly after noon that I reached the Lolo Ranger Station and ended my wilderness wandering ....
+
+> This trip ... satisfied an old craving to trip back beyond the edge of civilization where, for a few days, I would have to depend entirely upon myself. I think this is the most healthy experience for a person brought up under most dependent conditions of society. I think also that a few days alone like that in the wilderness gives a person a worthwhile perspective of his normal surroundings ... Once one had had this experience, however, I have no great desire to repeat it. It is undeniably lonely, to be by one's self in the woods in winter. A single good companion would have improved things a lot.
+
+{% include essay/new-section.html %}
+
+### Account 20.2
+
+*Walter Sewell guides family members, 1938.*
+
+> RETRACE STEPS OF LEWIS-CLARK Claiming descent from members of the Lewis-Clark expedition, a party of 20 is enroute to Astoria, Ore., at the mouth of the Columbia river, over the historic route taken by their ancestors, Walter Sewell and his son, Byron, reported yesterday after returning home after a weekend spent in the Weitas meadows country, near the Montana line. In the group is a 15 year old Indian boy, who claims he is a great grandson of Sacajawea, the Indian woman who guided the Lewis-Clark party over a portion of the treacherous journey. Unlike their ancestors, who struggled over the countless miles mostly on foot and by boat, the modern expedition is traveling by bus and automobile, with signs bearing the legend: "1938 Lewis-Clark Expedition ," Mr. Sewell reported. He said members informed him they were from Fort Benton, Ind., and began their trip from St. Louis.
+
+> -Lewiston Morning Tribune, August 18, 1938
+
+> LEWIS-CLARK DESCENDENTS RETRACE OLD TRAIL Walter Sewell, the Daniel Boone of Idaho and Major Bowe's radio fame, and Byron Sewell, spent Saturday and Sunday on a trip to the Montana line over the Lewis-Clark trail and report meeting the "1938 Lewis-Clark Expedition" of about 20 members, all descendents of Lewis and Clark and the great grandson of Sacajawea. The party came from Fort Benton, Indiana, Mr. Sewell said, and is retracing the Lewis-Clark route from St. Louis, Missouri, to Astoria, Oregon. Their mode of transportation was two buses and they were camped on Little Weitas Meadows. Members of the party seemed to be reticent and more detailed information could not be obtained, Mr. Sewell told the Tribune. He also reported that travelers over the old trail have destroyed numerous historic signs at Indian Postoffice, Indian Grave and General Howard's camps.
+
+> Apparently they have been taken away as souvenirs. "It is a serious act of vandalism and action should be taken to prevent this," Mr. Sewell said.
+
+> -Orofino Clearwater Tribune, August 19, 1938
