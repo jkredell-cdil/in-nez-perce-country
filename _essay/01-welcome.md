@@ -4,30 +4,83 @@ order: 1
 part: Overview and Examples
 ---
 
-CB-Essay is a free, open source publishing framework that lets you ***write with, on, and for*** the web while keeping complete control over how your work appears online and in print.
 
-The idea for the tool, and many of its design elements, came out of our working with graduate students on digital theses the past couple of years. We've encouraged users of CollectionBuilder to write *with* their collections since we first started promoting the framework in 2019, but these [(CDIL) Grad Fellows](https://cdil.lib.uidaho.edu/) needed us to flip our setup around — featuring their essays on top, with CollectionBuilder living underneath.{% include essay/feature/aside.html text="See [Sedimentation](https://cdil.lib.uidaho.edu/sedimentation/), [Tender Spaces](https://cdil.lib.uidaho.edu/tender-spaces/), and [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/)." %} 
+# <p align="center"> In Nez Perce Country: </p>
+# <p align="center">Accounts of the Bitterroots and the Clearwater After Lewis and Clark </p>
 
-We liked the results and decided to try to make them more available through this new template. The mini-essays below will walk you through the system and get you started.{% include essay/feature/cta.html style="aside" text="Use This Template →" link="https://github.com/new?template_name=cb-essay&template_owner=CollectionBuilder" description="Click below to start now: " size="sm" width="75" %}
 
-## So What Does It Do?
+<p align="center"> Compiled and edited by Lynn and Dennis Baird </p> 
 
-***CB-Essay*** is a Jekyll-based framework that combines **long-form essay writing** with **digital collection features**. ***Built on*** [CollectionBuilder](https://collectionbuilder.github.io/), it enables you to create multimodal scholarly narratives, written in Markdown, that integrate primary sources, archival materials, and multimedia items directly into your texts.
 
-Traditional digital publishing tools treat essays and collections as separate entities. CB-Essay connects them, allowing you to:
+<p align="center"> Moscow </p> 
+<p align="center">University of ldaho Library </p> 
 
-- **Reference collection items** using simple includes
-- Create **asides and margin notes** that link to primary sources {% include /essay/feature/aside.html text="Like this!" %}
-- **Publish your work for free** on GitHub
-- Generate **well-designed print and pdf outputs** using PagedJS.
-- **Choose from 8 accessible color/font themes** or create your own custom theme
-- Fashion the readers' experience through **scroll-based interactions and coordinated typography** {% include /essay/feature/aside.html text="Keep scrolling to see the next section magically appear!" %}
+
+<p align="center"> *Northwest Historical Manuscript Series* </p>
+
+
 
 {% include essay/new-section.html %}
 
-## How Does It Work?
 
-CB-Essay operates on a **dual-collection model**:
+Cover art
+
+*The Old Nez Perce Trail* by John F. Clymer ©The Clymer Museum and Doris Clymer
+Reproduced here with the permission of the Clymer Museum and Doris Clymer
+<br>
+
+
+Cataloging data
+
+In Nez Perce country : accounts of the Bitterroots and the Clearwater after Lewis and Clark / compiled and edited by Lynn and Dennis Baird. Moscow :
+University ofldaho Library ; distributed by the University of ldaho Press,
+2003.
+
+1 v. : ill., maps ; 22 cm. (Northwest historical manuscript series)
+
+Includes bibliographical references.
+
+ISBN: 0893015032
+
+1. Nez Perce Indians- History. 2. Bird-Truax Trail (Idaho and Mont.)- History. 3.
+Clearwater National Forest (ldaho)- History. 4. Northern Pacific Railroad Company-History. I. Baird, Lynn N. II. Baird, Dennis W. IV. Series.
+OCLC: 51671273      F752.B64l5 2003
+
+Printed in Canada on acid free paper. Designed by Barbara Ham
+
+©2003 by the University of Idaho Library.
+
+
+
+## Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1. **Essay Collection** - Your narrative content lives in the `_essay/` folder as Markdown files
 2. **Object Collection** - Primary sources and items defined in a CSV metadata file
