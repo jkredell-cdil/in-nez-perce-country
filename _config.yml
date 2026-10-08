@@ -58,14 +58,14 @@ title: In Nez Perce Country &nbsp; Accounts of the Bitterroots and the Clearwate
 # - Leave blank to show tagline instead
 # - You can use HTML to add line breaks or additional attribution:
 #   author: "Author Name<br>Edited by Editor Name<br>Translated by Translator Name
-author: Compiled and edited by Lynn and Dennis Baird
+author: 
 #
 # tagline: A subtitle/tagline that appears beneath the title (optional)
 # - Only displays if "author" field is empty
 # - Use for descriptive subtitle or project tagline
 # - Can also use HTML for multi-line display:
 #   tagline: "A Digital Edition<br>Published 2024"
-tagline: 
+tagline: Compiled and edited by Lynn and Dennis Baird
 #
 # METADATA FIELDS (for search engines and social media):
 #
