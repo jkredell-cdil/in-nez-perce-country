@@ -1,0 +1,66 @@
+# Settings for scripts/convert-ocr.rb — "In Nez Perce Country"
+# Copy this file for a new book and edit every section.
+# Regex values are Ruby regular expressions; keep them in single quotes so backslashes stay literal.
+
+# Running header printed at the top of each page, as it appears in the OCR text.
+# \s* allows for stray spaces the OCR inserts ("Co un try").
+running_header: 'In Nez Perce Co\s*un\s*try'
+
+# Chapters in reading order. `page` is the PDF page the chapter starts on (page N of the
+# pdftotext output = PDF page N). Each chapter runs until the page before the next one.
+# Output file is NN-slug.md, where NN is the position in this list.
+# Optional per chapter: `order` (default position x 10) and `part` (default "Chapter <position>").
+chapters:
+  - { title: "Introduction", page: 8, slug: introduction }
+  - { title: "Trails to the Buffalo Country", page: 12, slug: trails-to-the-buffalo-country }
+  - { title: "Reading about Lewis and Clark's Journey Through Nez Perce Country", page: 18, slug: reading-about-lewis-and-clark }
+  - { title: "David Thompson, 1812", page: 21, slug: david-thompson }
+  - { title: "Donald Mackenzie and the Astorians, 1811-1813", page: 24, slug: mackenzie-and-the-astorians }
+  - { title: "The Hudson's Bay Company in Nez Perce Country, 1821-1831", page: 43, slug: hudsons-bay-company }
+  - { title: "Botanist David Douglas Visits the Clearwater in 1826", page: 65, slug: david-douglas }
+  - { title: "Benjamin Bonneville Among the Nez Perce, 1832-1834", page: 69, slug: benjamin-bonneville }
+  - { title: "Christian Missions in the Clearwater Region", page: 87, slug: christian-missions }
+  - { title: "Naval Visitors: the Wilkes Expedition of 1841", page: 97, slug: wilkes-expedition }
+  - { title: "Botanist Charles A. Geyer Visits Spalding in 1844", page: 107, slug: charles-geyer }
+  - { title: "Early Accounts from the Southern Nez Perce Trail, 1835-1870", page: 115, slug: southern-nez-perce-trail }
+  - { title: "The Mysterious Dr. John Evans, 1851-1859", page: 125, slug: dr-john-evans }
+  - { title: "John Owen on the Lolo & Southern Nez Perce Trails, 1852-1863", page: 131, slug: john-owen }
+  - { title: "Railroad and Wagon Road Surveys of the Lolo Trail and Lochsa Region, 1854-1879", page: 140, slug: railroad-and-wagon-road-surveys }
+  - { title: "Richard Lansdale's Lolo Trail Account of 1857", page: 170, slug: richard-lansdale }
+  - { title: "The Indian Agency in the Clearwater Valley", page: 177, slug: indian-agency }
+  - { title: "Lolo Trail Accounts from the 1877 Nez Perce War", page: 194, slug: nez-perce-war-1877 }
+  - { title: "Celebrating the Centennial of Lewis and Clark's Visit", page: 210, slug: lewis-and-clark-centennial }
+  - { title: "Visitors Along the Trail", page: 219, slug: visitors-along-the-trail }
+  - { title: "Ancient Trails in Modern Times", page: 225, slug: ancient-trails-in-modern-times }
+  - { title: "The Story of the Lolo Trail Motorway (Road 500)", page: 247, slug: lolo-trail-motorway }
+  - { title: "Appendix One: Campsite Locations of Early Visitors", page: 257, slug: appendix-campsites, part: Appendix }
+
+# Last PDF page of content (the index starts on page 261).
+end_page: 260
+
+# Pages to skip entirely, e.g. full-page scanned maps or images.
+skip_pages: [7, 15, 19, 124]
+
+# Book-specific OCR corrections, applied in order to every paragraph and footnote
+# (before the script's general fixes). `replace` may use \1 for capture groups.
+text_fixes:
+  - { find: 'l(?=daho|ntergroup|ndian)', replace: 'I' }   # "ldaho" -> "Idaho"
+  - { find: '\bthe(Astorian\w*)', replace: 'the \1' }
+  - { find: '\bL[ao]l[ao]\b', replace: 'Lolo' }           # "Lalo", "Lola"
+  - { find: '\bmodem\b', replace: 'modern' }
+  - { find: 'Theodore Stem\b', replace: 'Theodore Stern' }
+  - { find: 'Expe,_dition', replace: 'Expedition' }
+
+# Words the split-word rejoiner must never create (check joins.txt after each run).
+keep_apart: [percent]
+
+# Optional: paragraphs that open a quoted primary-source section. Group 1 becomes an ### heading,
+# group 2 an italic description; text after `source_label` becomes a **Source:** line, and the
+# following paragraphs are blockquoted. Delete this block if the book has nothing like it.
+quoted_sections:
+  pattern: '\A(Account \d+\.\d+[a-z]?):\s*(.*)\z'
+  source_label: 'Source:'
+
+# Optional: paragraph that starts a further-reading list. Group 1 becomes an #### heading;
+# following short paragraphs containing a year become list items. Delete if not needed.
+reading_list_pattern: '\A((?:More information|Further reading) (?:about|on) [^:]+):\s*(.*)\z'
