@@ -51,6 +51,9 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+        with:
+          # Unique per attempt so re-runs don't leave duplicate "github-pages" artifacts
+          name: github-pages-${{ github.run_attempt }}
 
   # Deployment job
   deploy:
@@ -63,3 +66,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
