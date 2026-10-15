@@ -18,8 +18,8 @@
 # - External URL: https://example.com/image.jpg
 # - Collection objectid: demo_001
 #
-image-style: full-image                # full-image, half-image, or no-image
-featured-image: /objects/inpc_009.jpg
+image-style: half-image                # full-image, half-image, or no-image
+featured-image: /objects/inpc_008.jpeg
 featured-image-credit: 
 featured-image-alt-text: "Lewis & Clark expedition showing signs of gastrointestinal distress upon ingestion of camas bulbs" # Add alt text for accessibility
 
